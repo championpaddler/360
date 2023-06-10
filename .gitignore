@@ -1,0 +1,5 @@
+/node_modules
+.env
+/public/artsy-wish.hbs
+/public/alapage.hbs
+/public/poetry.hbs
